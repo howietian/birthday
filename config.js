@@ -32,9 +32,9 @@ var config = {
         play: "来 BGM响起来",
         bannar_coming: "形式要做足～",
         balloons_flying: "少点惊喜?",
-        cake_fadein: "切糕可贵了",
+        cake_fadein: "把切糕推上来…",
         light_candle: "许个愿望吧",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "To Alicia:",
     }
 };
