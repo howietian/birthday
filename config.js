@@ -5,9 +5,9 @@ var config = {
     texts: [
         "送给",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "可爱的你",  // 同上...
-        "今天是你的生日",
+        "今天是",
         "我们认识之后",
-        "第一个生日哦",
+        "你的第一个生日",
         "希望",
         "你以后的每一天",
         "都是最快乐的一天",
@@ -28,12 +28,12 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "点我敢不敢",
-        play: "来 BGM响起",
-        bannar_coming: "拉条横幅",
+        turn_on: "点我点我呀",
+        play: "来 BGM响起来",
+        bannar_coming: "形式要做足～",
         balloons_flying: "少点惊喜?",
-        cake_fadein: "送上蛋糕",
-        light_candle: "当然要吹蜡烛",
+        cake_fadein: "切糕可贵了",
+        light_candle: "许个愿望吧",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
